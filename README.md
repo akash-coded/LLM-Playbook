@@ -77,10 +77,6 @@ LLM-Playbook/
 3.  **Check `tools-compared/` (Optional):** If you're curious about the nuances of different web LLM interfaces, explore the "tools-compared" directory for insights and platform-specific tips.
 4.  **Engage in GitHub Discussions:** Use the **"Discussions"** tab to share your own creative uses, ask for prompt advice, discuss challenges, and connect with other web LLM enthusiasts. Let's learn from each other!
 
-**Contributing:**
-
-*(Optional - Include if you want to encourage contributions)*
-
 Share your own web LLM crafts! If you have discovered a particularly clever use case, a powerful prompt trick, or a helpful technique, please contribute to this repository!  Submit a pull request with your examples or start a discussion in the "Discussions" tab to share your ideas.
 
 **License:**
