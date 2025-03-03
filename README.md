@@ -1,10 +1,10 @@
 # LLM-Playbook (`LLM-Playbook`)
 
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Enabled-brightgreen)](https://github.com/YOUR_GITHUB_USERNAME/WebLLM-Craft/discussions)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Enabled-brightgreen)](https://github.com/akash-coded/LLM-Playbook/discussions)
 
 **Unleash Your Creativity & Resourcefulness with Web LLMs!**
 
-Welcome to WebLLM-Craft! This repository is your guide to becoming a **resourceful and creative user** of powerful web-based Large Language Models (LLMs) like ChatGPT, Gemini, DeepSeek, and others.
+Welcome to LLM-Playbook! This repository is your guide to becoming a **resourceful and creative user** of powerful web-based Large Language Models (LLMs) like ChatGPT, Gemini, DeepSeek, and others.
 
 **Forget complex APIs and coding!**  This is all about mastering the **web interfaces** of these amazing AI tools and learning how to **craft prompts** to make them work smarter for *you*.
 
@@ -42,7 +42,7 @@ This guide is for **anyone** who wants to be smarter and more resourceful with w
 **Repository Structure:**
 
 ```
-WebLLM-Craft/
+LLM-Playbook/
 ├── README.md          (This file - repository overview and guide)
 ├── use-cases/         (Directory showcasing creative & practical use cases)
 │   ├── content-creation/ (Example:  Supercharging Content Creation)
